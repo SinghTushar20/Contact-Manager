@@ -9,8 +9,7 @@
 #include"../headers/TrieForNumber.h"
 #include"../headers/ExactSearch.h"
 using namespace std;
-signed main()
-{
+signed main() {
     Trie* t = new Trie;
     TrieForNumber* m = new TrieForNumber;
     int i = -1;
